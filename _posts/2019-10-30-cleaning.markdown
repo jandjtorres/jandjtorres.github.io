@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-10-30
+img: cleaning.jpg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Weekly cleaning of the office or your home? A full yearly cleaning or perhaps you are moving into or out of a home? We will make the office or home shine. Swift cleaning, to perfection.
+
+---

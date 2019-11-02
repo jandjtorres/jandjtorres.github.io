@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2019-10-28
+img: painting.jpg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Make your house shine. Make your rooms come to life. We do small and medium paint jobs to help you thrive more in your home.
+
+---
