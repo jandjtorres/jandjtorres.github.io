@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: A house or room to renovate? something needs fixing or repair. We are the janitor you always wanted. Keep calm and let us fix it.
+description: Renovering av et rom eller et hus? Noe som trengs å repareres? Vi er vaktmesteren du alltid har ønsket deg. Du senker skuldrene og slapper av mens vi ordner opp.
 
 ---

@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Weekly cleaning of the office or your home? A full yearly cleaning or perhaps you are moving into or out of a home? We will make the office or home shine. Swift cleaning, to perfection.
+description: Ukentlig rengjøring ev kontorlokaler eller hjemme? En skikkelig vårrengjøring eller rengjøring for salg? Vi sørger for at kontoret eller boligen blir skinnende ren. Effektiv og grundig rengjøring med et smil og empati.
 
 ---

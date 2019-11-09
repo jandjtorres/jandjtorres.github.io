@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Give your garden a face lift, more life and elegance. We do everything from planting and trimming to lawn mowing and fruit and berry picking. 
+description: Gi hagen et løft - mer liv og eleganse. Vi gjør alt fra utjevning, beplanting og trimming til gressklipping og plukking. 
 
 ---
