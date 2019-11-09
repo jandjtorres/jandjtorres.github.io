@@ -33,9 +33,9 @@ color:
 # Footer settings
 footer:
   copyright: "J&J TORRES CONSULTING AS"
-  location: "Oslo, Norway"
-  social: Around the Web
-  credits: Credits
+  location: "Oslo og omegn"
+  social: "Sosialt nettverk"
+  credits: "Takk"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
