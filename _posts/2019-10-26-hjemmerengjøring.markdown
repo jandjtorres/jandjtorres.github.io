@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2019-10-26
+img: cleaning.jpg
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Rent og pent hver uke. Du koser deg med familien mens vi rydder og gjør det rent i hjemmet. Effektiv og grundig rengjøring med et smil og empati.
+
+---

@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 2
-date: 2019-10-29
+modal-id: 4
+date: 2019-10-23
 img: renovation.jpg
 alt: image-alt
 project-date: 
