@@ -6,7 +6,7 @@ img: cleaning.jpg
 alt: image-alt
 project-date: 
 client: 
-category: Kontorrengjøring
+category: 
 description: Ser du etter en profesjonell partner for rengjøring av kontorlokaler? Vi gjør skinnende rent i små og store lokaler. Vi sørger for at ansatte og kunder legger merke til hvor rent og pent det er.
 
 ---
