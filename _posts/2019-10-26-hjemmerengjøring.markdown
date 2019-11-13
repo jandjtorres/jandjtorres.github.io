@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2019-10-26
-img: cleaning.jpg
+img: cleaning1.jpg
 alt: image-alt
 project-date: 
 client: 
