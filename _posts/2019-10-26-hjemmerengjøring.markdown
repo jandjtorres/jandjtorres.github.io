@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Rent og pent hver uke. Du koser deg med familien mens vi rydder og gjør det rent i hjemmet. Effektiv og grundig rengjøring med et smil og empati.
+description: Rent og pent når det passer for deg. Du koser deg med familien mens vi rydder og gjør det rent i hjemmet. Effektiv og grundig rengjøring med et smil.
 
 ---

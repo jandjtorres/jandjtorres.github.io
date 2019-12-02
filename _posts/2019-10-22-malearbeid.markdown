@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Få huset til å skinne. Gi liv til stua, kjøkkenet eller soverommet. Vi tar små eller større maleoppdrag så du kan trives ennå bedre.
+description: Få huset til å skinne. Gi liv til stua, kjøkkenet eller soverommet.<br /> Vi tar små eller større maleoppdrag så du kan trives enda bedre.
 
 ---

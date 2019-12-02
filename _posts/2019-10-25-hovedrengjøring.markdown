@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Vårrengjøring eller rent og pent til jul? Utflytting eller innflytting? Vi gjør hele huset pent og rent til den nye sesongen eller til du flytter ut eller inn i ny bolig.
+description: Vårrengjøring? Rent og pent til jul? Utflytting eller innflytting? <br />Vi rengjør hele huset til den nye sesongen, eller til du flytter ut eller inn i ny bolig.
 
 ---
