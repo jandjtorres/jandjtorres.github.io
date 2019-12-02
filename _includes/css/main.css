@@ -81,6 +81,7 @@ hr.star-primary:after {
 }
 
 header {
+	float: center;
     text-align: center;
     color: #fff;
     background: #fff;
@@ -148,6 +149,7 @@ header .intro-text .skills {
 }
 
 .navbar {
+	float: center;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
