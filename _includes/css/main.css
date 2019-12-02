@@ -111,7 +111,6 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 170px;
         padding-bottom: 10px;
     }
 
@@ -170,6 +169,10 @@ header .intro-text .skills {
 .navbar-default,
 .navbar-inverse {
     border: 0;
+}
+
+.spacer {
+	padding-top: 200px;
 }
 
 section {
