@@ -187,12 +187,16 @@ section.success {
 }
 
 @media(max-width:767px) {
+	header .container {
+		padding-top: 400px;
+	}
+
     section {
         padding: 50px 0;
     }
 
     section.first {
-        padding-top: 400px;
+        padding-top: 0px;
     }
 }
 
